@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">convertidora_two</string>
+    <string name="num">Resultado...</string>
+    <string name="button">Calcular</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="entrada">Ingrese un número</string>
+    <string name="mensaje">Ingrese un mensaje</string>
+
+</resources>
